@@ -1,4 +1,4 @@
 # Olá, Mundo!
 Meu primeiro repositório do Curso de Git e GitHub
 
-Alteração do site
+Curso em vídeo pelo professor Gustavo Guanabara
